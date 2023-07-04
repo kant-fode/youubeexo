@@ -1,0 +1,75 @@
+.tp-2,
+.tp-2 * {
+  box-sizing: border-box;
+}
+.tp-2 {
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.liste-etudiants {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px "Inter", sans-serif;
+  position: absolute;
+  left: 898px;
+  top: 76.5px;
+}
+.connexions {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px "Inter", sans-serif;
+  position: absolute;
+  left: 1084px;
+  top: 76.5px;
+}
+.a-propos {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px "Inter", sans-serif;
+  position: absolute;
+  left: 1244px;
+  top: 76.5px;
+}
+.line-1 {
+  position: absolute;
+  left: 1358px;
+  top: 76px;
+  overflow: visible;
+}
+.line-2 {
+  border-style: solid;
+  border-color: #f6ecec;
+  border-width: 4px 0 0 0;
+  width: 62px;
+  height: 0px;
+  position: absolute;
+  left: 1358px;
+  top: 88.5px;
+}
+.line-3 {
+  border-style: solid;
+  border-color: #f6ecec;
+  border-width: 4px 0 0 0;
+  width: 62px;
+  height: 0px;
+  position: absolute;
+  left: 1358px;
+  top: 100.5px;
+}
+.logo-odk {
+  width: 161px;
+  height: 174px;
+  position: absolute;
+  left: 16px;
+  top: 1px;
+}
+.orange-digital-kalanso {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px "Inter", sans-serif;
+  position: absolute;
+  left: -37px;
+  top: 175px;
+}
